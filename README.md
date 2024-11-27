@@ -11,6 +11,8 @@ This notebook provides a comprehensive explanation of Artificial Neural Networks
 3. Practical Implementation: Step-by-step demonstration of building an ANN model with calculations.
 4. Visualization: Includes plots and diagrams to aid understanding.
 
+![NN](https://github.com/user-attachments/assets/1cc214e6-3e68-4251-989e-0d622733f4db)
+
 ## Objective
 To help readers understand the theoretical and practical aspects of ANNs using a mathematical approach. Ideal for students, researchers, and developers aiming to deepen their knowledge of neural networks.
 
